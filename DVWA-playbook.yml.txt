@@ -42,7 +42,7 @@
           - "5601:5601"
           - "9200:9200"
           - "5044:5044"
-root@95dac73be2e9:/etc/ansible# cat playbook.yml
+root@95dac85co2e9:/etc/ansible# cat playbook.yml
 
 ---
 - name: Config Web for Docker
